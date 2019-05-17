@@ -1,7 +1,7 @@
 # Qunadl_API_calls
 In this exercise API calls were made to the Qunadl API to analyze the stock prices in 2017 of a company called Carl Zeiss Meditec(AFX_X).
 
-Carl Zeiss Meditec is a company that manufactures tools for eye examinations, as well as medical lasers for laser eye surgery: https://www.zeiss.com/meditec/int/home.html. The company is listed under the stock ticker AFX_X on the Frankfurt Stock Exhange (FSE).
+[Carl Zeiss Meditec](https://www.zeiss.com/meditec/int/home.html) is a company that manufactures tools for eye examinations, as well as medical lasers for laser eye surgery. The company is listed under the stock ticker AFX_X on the Frankfurt Stock Exhange (FSE).
 
 The Jupyter Notebook contains the following tasks that were performed:
 
