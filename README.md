@@ -8,7 +8,7 @@ The Jupyter Notebook contains the following tasks that were performed:
 1. Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2017.
 2. Convert the returned JSON object into a Python dictionary.
 3. Calculate what the highest and lowest opening prices were for the stock in this period.
-4. Calculate the largest change in any one day (based on High and Low price)?
-5. Calculate the largest change between any two days (based on Closing Price)?
-6. Calculate the average daily trading volume during this year?
-7. (Optional) Calculate the median trading volume during this year?
+4. Calculate the largest change in any one day (based on High and Low price).
+5. Calculate the largest change between any two days (based on Closing Price).
+6. Calculate the average daily trading volume during this year.
+7. (Optional) Calculate the median trading volume during this year.
