@@ -1,4 +1,4 @@
-# Data Wrangling and Normalized Dataframes from Nested Json Strings
+# Wrangling Data and Normalizing Dataframes from Nested Json Strings
 
 In this assigment I read a json file containing real-life data from World Bank. This dataset is from a school quality improvement project in Ethiopia. I used ```pandas``` and ```json_normalize``` to normalize dataframes from nested json strings. I read the json file as a string and as a table to find answers to the following questions:
 
