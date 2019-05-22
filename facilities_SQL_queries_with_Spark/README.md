@@ -8,29 +8,29 @@ Bookings Schema
 root
 -  bookid: integer (nullable = true)
 - facid: integer (nullable = true)
- |-- memid: integer (nullable = true)
- |-- starttime: timestamp (nullable = true)
- |-- slots: integer (nullable = true)
+- memid: integer (nullable = true)
+- starttime: timestamp (nullable = true)
+- slots: integer (nullable = true)
 
 Facilities Schema
 root
- |-- facid: integer (nullable = true)
- |-- name: string (nullable = true)
- |-- membercost: double (nullable = true)
- |-- guestcost: double (nullable = true)
- |-- initialoutlay: integer (nullable = true)
- |-- monthlymaintenance: integer (nullable = true)
+- facid: integer (nullable = true)
+- name: string (nullable = true)
+- membercost: double (nullable = true)
+- guestcost: double (nullable = true)
+- initialoutlay: integer (nullable = true)
+- monthlymaintenance: integer (nullable = true)
 
 Members Schema
 root
- |-- memid: integer (nullable = true)
- |-- surname: string (nullable = true)
- |-- firstname: string (nullable = true)
- |-- address: string (nullable = true)
- |-- zipcode: integer (nullable = true)
- |-- telephone: string (nullable = true)
- |-- recommendedby: integer (nullable = true)
- |-- joindate: timestamp (nullable = true)
+- memid: integer (nullable = true)
+- surname: string (nullable = true)
+- firstname: string (nullable = true)
+- address: string (nullable = true)
+- zipcode: integer (nullable = true)
+- telephone: string (nullable = true)
+- recommendedby: integer (nullable = true)
+- joindate: timestamp (nullable = true)
  
  SQL Queries were used to answer the following questions:
  - List the names of the facilities that charge a fee to members.
