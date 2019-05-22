@@ -6,8 +6,8 @@ Multiple csv files were uploaded into Spark to create a relational database. Thr
 
 Bookings Schema
 root
- |-- bookid: integer (nullable = true)
- |-- facid: integer (nullable = true)
+-  bookid: integer (nullable = true)
+- facid: integer (nullable = true)
  |-- memid: integer (nullable = true)
  |-- starttime: timestamp (nullable = true)
  |-- slots: integer (nullable = true)
