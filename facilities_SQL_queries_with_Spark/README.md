@@ -41,4 +41,8 @@ root
  - You'd like to get the first and last name of the last member(s) who signed up.
  - How can you produce a list of all members who have used a tennis court?
  - How can you produce a list of bookings on the day of 2012-09-14 which will cost the member (or guest) more than $30?
+ 
+ <img src="q9.png">
  - Produce a list of facilities with a total revenue less than 1000.
+ 
+ <img src="q10.png">
